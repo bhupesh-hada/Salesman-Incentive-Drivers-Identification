@@ -9,6 +9,9 @@ For a given cluster best model is selected based on adjusted rsquare and f_stati
 ![SIO_2](https://user-images.githubusercontent.com/24865203/189040519-7755072b-1cb8-40f9-b52d-abae45e552fc.PNG)
 
 Finally, for the recommended KPIs maximum or minimum levels are also presented to help facilitate th decision on the allocation of the incentive budget
+* Each grey dot represents the Distributor Sales Representative (DSR) or Salesman for a month
+* The blue vertical line shows the average level for the KPI/Measure per Distributor Sales Representative (DSR) per month
+* The red vertical line shows the turning point which, depending on the curvature of the blue curve,represents either what the minimum or maximum target should be.
 * The blue curve from left to right shows the increment in % Achievement of Target GSV (depedent variable) as one pushes to increase performance in this KPI / Measure. This allows comparison on how much impact can be achieved by increasing the different recommended KPIs/Measure above the current average level.
 * The distance between the average level and the minimum / maximum level help provide a view on how much further one should push to increase the different KPIs / Measures.
 ![SIO_3](https://user-images.githubusercontent.com/24865203/189041254-72eb46ea-9947-48d1-bafe-49bc35e48056.PNG)
