@@ -8,7 +8,7 @@ There are more than 100 features extracted and collated from 6 data sources. EDA
 For a given cluster best model is selected based on adjusted rsquare and f_statisitcs. In the final model, features with p-value < 0.001 and positive coefficient are classified as primary recommendation, p-value < 0.05 and postive coefficients as secondary recommendation and the remaining as not recommended
 ![SIO_2](https://user-images.githubusercontent.com/24865203/189040519-7755072b-1cb8-40f9-b52d-abae45e552fc.PNG)
 
-Finally, for the recommended KPIs maximum or minimum levels are also presented to help facilitate th decision on the allocation of the incentive budget
+Finally, for the recommended KPIs maximum or minimum levels are also presented to help facilitate the decision on the allocation of the incentive budget
 * Each grey dot represents the Distributor Sales Representative (DSR) or Salesman for a month
 * The blue vertical line shows the average level for the KPI/Measure per Distributor Sales Representative (DSR) per month
 * The red vertical line shows the turning point which, depending on the curvature of the blue curve,represents either what the minimum or maximum target should be.
