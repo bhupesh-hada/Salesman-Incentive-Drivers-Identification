@@ -7,6 +7,7 @@ There are more than 100 features extracted and collated from 6 data sources. EDA
 # Results
 For a given cluster best model is selected based on adjusted rsquare and f_statisitcs. In the final model, features with p-value < 0.001 and positive coefficient are classified as primary recommendation, p-value < 0.05 and postive coefficients as secondary recommendation and the remaining as not recommended
 ![SIO_2](https://user-images.githubusercontent.com/24865203/189040519-7755072b-1cb8-40f9-b52d-abae45e552fc.PNG)
+
 Finally, for the recommended KPIs maximum or minimum levels are also presented to help facilitate th decision on the allocation of the incentive budget
 * The blue curve from left to right shows the incremental increase in % Achievement of Target GSV (depedent variable) as one pushes to increase performance in this KPI / Measure. This allows comparison on how much impact can be achieved by increasing the different recommended KPIs/Measure above the current average level.
 * The distance between the average level and the minimum / maximum level help provide a view on how much further one should push to increase the different KPIs / Measures.
