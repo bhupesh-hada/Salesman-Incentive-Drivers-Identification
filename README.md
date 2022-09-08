@@ -9,7 +9,7 @@ For a given cluster best model is selected based on adjusted rsquare and f_stati
 ![SIO_2](https://user-images.githubusercontent.com/24865203/189040519-7755072b-1cb8-40f9-b52d-abae45e552fc.PNG)
 
 Finally, for the recommended KPIs maximum or minimum levels are also presented to help facilitate th decision on the allocation of the incentive budget
-* The blue curve from left to right shows the incremental increase in % Achievement of Target GSV (depedent variable) as one pushes to increase performance in this KPI / Measure. This allows comparison on how much impact can be achieved by increasing the different recommended KPIs/Measure above the current average level.
+* The blue curve from left to right shows the increment in % Achievement of Target GSV (depedent variable) as one pushes to increase performance in this KPI / Measure. This allows comparison on how much impact can be achieved by increasing the different recommended KPIs/Measure above the current average level.
 * The distance between the average level and the minimum / maximum level help provide a view on how much further one should push to increase the different KPIs / Measures.
 ![SIO_3](https://user-images.githubusercontent.com/24865203/189041254-72eb46ea-9947-48d1-bafe-49bc35e48056.PNG)
 ![SIO_4](https://user-images.githubusercontent.com/24865203/189041332-aee43715-fe28-4e04-9676-e7efab6fd0ec.PNG)
